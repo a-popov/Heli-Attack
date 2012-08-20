@@ -1,3 +1,5 @@
 Heli-Attack Revolution
+By: Anton Popov and Asim Raoof
 
-Version 1.0
+Final Version
+Last Updated: 03/02/2012
